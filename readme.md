@@ -1,8 +1,8 @@
 # Capstone project - Spring 2024
 
-## _Exploring Antimicrobial Resistance Mechanisms Through a Pangenome-Scale Epistatic Interactions Network_
+_This is a final year capstone project for the bachelors degree in Bioinformatics at LAU. The work was a literature based project conducted and presented during spring semester 2024. It was a comprehensive computational project that involved network science, data mining and statitical analysis, with a focus on genomics data, pangenomics and antimicrobial resistance. The repository is a public version of the project, with hidden commit history and results reported, aiming to showcase work done and computational methods used._
 
-This is a final year capstone project for the bachelors degree in Bioinformatics at LAU. The work was a literature based project conducted and presented during spring semester 2024. It was a comprehensive computational project that involved network science, data mining and statitical analysis, with a focus on genomics data, pangenomics and antimicrobial resistance. The repository is a public version of the project, with hidden commit history and results reported, aiming to showcase work done and computational methods used.
+## Exploring Antimicrobial Resistance Mechanisms Through a Pangenome-Scale Epistatic Interactions Network
 
 ### Graphical Abstract
 
