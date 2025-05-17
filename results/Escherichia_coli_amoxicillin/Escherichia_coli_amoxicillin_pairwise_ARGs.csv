@@ -1,0 +1,7 @@
+,mi,chi2,anova,svm
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_3",,,,
+Class D beta-lactamase (EC 3.5.2.6) => OXA-1 family_1,46.0,116.0,,70.0
+Class A beta-lactamase (EC 3.5.2.6) => TEM family_1,1.0,1.0,,1.0
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_2",393.0,612.0,,409.0
+Subclass B1 beta-lactamase (EC 3.5.2.6) => NDM family_1,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_1",409.0,644.0,,471.0

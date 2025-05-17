@@ -1,0 +1,14 @@
+,mi,chi2,anova,svm,betweenness,weighted_betweenness,closeness,weighted_closeness,eigenvector,page_rank,degree,weighted_degree,clustering_coef
+Aminoglycoside 3''-phosphotransferase (EC 2.7.1.87) => APH(3'')-I_1 (streptomycin),1.0,1.0,,1.0,456.0,,,,,,,,
+Dihydropteroate synthase type-2 (EC 2.5.1.15) @ Sulfonamide resistance protein_4 (sulfamethoxazole),29.0,20.0,,24.0,100.0,722.0,439.0,,,232.0,,,
+Dihydropteroate synthase type-2 (EC 2.5.1.15) @ Sulfonamide resistance protein_7 (sulfamethoxazole),1.0,1.0,,1.0,1.0,110.0,12.0,196.0,,23.0,435.0,435.0,
+"Tetracycline resistance, MFS efflux pump => Tet(A)_6 (tetracycline)",1.0,1.0,,1.0,192.0,101.0,,,,210.0,444.0,444.0,
+"Tetracycline resistance, MFS efflux pump => Tet(B)_1 (tetracycline)",7.0,8.0,,13.0,,,,,,,,,
+Dihydrofolate reductase (EC 1.5.1.3)_1 (trimethoprim),21.0,33.0,,19.0,,,,,,864.0,,,
+Dihydrofolate reductase (EC 1.5.1.3)_9 (trimethoprim),294.0,350.0,,29.0,475.0,653.0,485.0,419.0,810.0,,,,
+Class D beta-lactamase (EC 3.5.2.6) => OXA-1 family_1 (amoxicillin),46.0,116.0,,70.0,593.0,561.0,545.0,705.0,,340.0,339.0,339.0,945.0
+Class A beta-lactamase (EC 3.5.2.6) => TEM family_1 (amoxicillin),1.0,1.0,,1.0,,,,,,,,,
+Class A beta-lactamase (EC 3.5.2.6) => TEM family_1 (ampicillin),1.0,1.0,,1.0,697.0,605.0,,,,615.0,722.0,722.0,945.0
+Transcription-repair coupling factor_1 (ciprofloxacin),,,23.0,,,,,,,,,,
+"Multidrug efflux system AcrAB-TolC, inner-membrane proton/drug antiporter AcrB (RND type)_1 (ciprofloxacin)",,,35.0,,,,,,,,,,
+DNA gyrase subunit A (EC 5.99.1.3)_1 (ciprofloxacin),,,80.0,,,,,,,,,,

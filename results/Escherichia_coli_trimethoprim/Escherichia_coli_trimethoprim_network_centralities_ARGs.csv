@@ -1,0 +1,11 @@
+,betweenness,weighted_betweenness,closeness,weighted_closeness,eigenvector,page_rank,degree,weighted_degree,clustering_coef
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_3",,,,,,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_2",,,,,,294.0,,,814.0
+Dihydrofolate reductase (EC 1.5.1.3)_8,,,,,,,,,
+Dihydrofolate reductase (EC 1.5.1.3)_1,,,,,,864.0,,,
+Dihydrofolate reductase (EC 1.5.1.3)_7,,,,,,,,,563.0
+Dihydrofolate reductase (EC 1.5.1.3)_4,106.0,533.0,834.0,997.0,872.0,282.0,877.0,877.0,685.0
+Dihydrofolate reductase (EC 1.5.1.3)_6,,,,,,,,,
+Dihydrofolate reductase (EC 1.5.1.3)_2,,,,,,,,,
+Dihydrofolate reductase (EC 1.5.1.3)_9,475.0,653.0,485.0,419.0,810.0,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_1",,,,,,295.0,,,815.0

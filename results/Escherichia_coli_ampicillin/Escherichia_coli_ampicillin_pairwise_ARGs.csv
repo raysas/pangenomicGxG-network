@@ -1,0 +1,20 @@
+,mi,chi2,anova,svm
+"Multidrug efflux system AcrAB-TolC, inner-membrane proton/drug antiporter AcrB (RND type)_1",,,,
+"iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore_2",,,,740.0
+"Multidrug efflux system AcrAB-TolC, membrane fusion component AcrA_1",,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_3",,,,
+Class A beta-lactamase (EC 3.5.2.6) => TEM family_1,1.0,1.0,,1.0
+Class A beta-lactamase (EC 3.5.2.6) => SHV family_1,219.0,723.0,,160.0
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_2",,,,
+"Transcriptional regulator of acrAB operon, AcrR_3",,,,
+"Transcriptional regulator of acrAB operon, AcrR_1",,,,
+"Transcriptional regulator of acrAB operon, AcrR_6",,,,
+"Transcriptional regulator of acrAB operon, AcrR_2",,,,
+Multiple antibiotic resistance protein MarR_1,,,,
+"Transcriptional regulator of acrAB operon, AcrR_8",,,,
+Multiple antibiotic resistance protein MarA_1,,,,
+"Transcriptional regulator of acrAB operon, AcrR_7",,,,
+Multiple antibiotic resistance protein MarB_2,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_1",,,,
+"Transcriptional regulator of acrAB operon, AcrR_5",,,,
+AcrZ membrane protein associated with AcrAB-TolC multidrug efflux pump_2,,,,

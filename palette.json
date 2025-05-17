@@ -1,0 +1,50 @@
+{
+    "palette_1": [
+      {
+        "name": "Prussian blue",
+        "hex": "0b3954",
+        "rgb": "rgb(11, 57, 84)"
+      },
+      {
+        "name": "Midnight green",
+        "hex": "0a5c70",
+        "rgb": "rgb(10, 92, 112)"
+      },
+      {
+        "name": "Teal",
+        "hex": "087e8b",
+        "rgb": "rgb(8, 126, 139)"
+      },
+      {
+        "name": "Moonstone",
+        "hex": "64abbb",
+        "rgb": "rgb(100, 171, 187)"
+      },
+      {
+        "name": "Columbia blue",
+        "hex": "bfd7ea",
+        "rgb": "rgb(191, 215, 234)"
+      },
+      {
+        "name": "Bittersweet",
+        "hex": "ff5a5f",
+        "rgb": "rgb(255, 90, 95)"
+      },
+      {
+        "name": "Imperial red",
+        "hex": "eb444a",
+        "rgb": "rgb(235, 68, 74)"
+      },
+      {
+        "name": "Persian red",
+        "hex": "d62d34",
+        "rgb": "rgb(214, 45, 52)"
+      },
+      {
+        "name": "Fire brick",
+        "hex": "b22222",
+        "rgb": "rgb(178, 34, 34)"
+      }
+    ]
+}
+  

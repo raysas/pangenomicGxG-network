@@ -1,0 +1,8 @@
+,mi,chi2,anova,svm,betweenness,weighted_betweenness,closeness,weighted_closeness,eigenvector,page_rank,degree,weighted_degree,clustering_coef
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_3",,,,,,,,,,,,,
+Dihydropteroate synthase type-2 (EC 2.5.1.15) @ Sulfonamide resistance protein_4,29.0,20.0,,24.0,100.0,722.0,439.0,,,232.0,,,
+Dihydropteroate synthase type-2 (EC 2.5.1.15) @ Sulfonamide resistance protein_7,1.0,1.0,,1.0,1.0,110.0,12.0,196.0,,23.0,435.0,435.0,
+Dihydropteroate synthase (EC 2.5.1.15)_1,,,,,,,,,,,,,
+Dihydropteroate synthase (EC 2.5.1.15)_8,,,,,,,,,,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_2",,,,,,,,,,,,,
+"Multidrug efflux system, inner membrane proton/drug antiporter (RND type) => MexB of MexAB-OprM_1",,,,,,,,,,,,,
